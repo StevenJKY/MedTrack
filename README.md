@@ -4,6 +4,12 @@ MedTrack is an Android medication management application designed to help users 
 
 The application combines medication and symptom tracking with external drug information from OpenFDA and AI-assisted features powered by Gemini, including personalised medication tips, potential drug interaction warnings, and clinician-facing insights.
 
+## Try the Demo
+
+A signed Android demo APK is available from the [latest release](https://github.com/StevenJKY/MedTrack/releases/latest).
+
+The demo can be installed directly on an Android device or emulator.
+
 ## Tech Stack
 
 - Kotlin
